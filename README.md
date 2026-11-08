@@ -10,6 +10,7 @@ putekli-label/
 ├── README.md
 ├── .nojekyll
 └── assets/
+    ├── bg.jpg
     └── covers/
         ├── cover-1.jpg
         ├── cover-2.jpg
